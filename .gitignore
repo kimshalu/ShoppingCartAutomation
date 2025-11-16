@@ -1,0 +1,37 @@
+# Maven target folder
+/target/
+
+# Eclipse/IDEA files
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Reports (generated every run)
+reports/
+extent-report.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Screenshots
+screenshots/
+reports/screenshots/
+
+# Temporary files
+*.tmp
+*.swp
+
+# WebDriver binaries (if downloaded manually)
+drivers/
+chromedriver.exe
+geckodriver.exe
